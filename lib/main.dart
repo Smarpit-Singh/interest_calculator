@@ -196,7 +196,7 @@ class MyICState extends State<MyInterestCalculator> {
   }
 
   Widget getImageAsset() {
-    AssetImage assetImage = AssetImage('assets/money.png');
+    AssetImage assetImage = AssetImage('assets/images/money.png');
     Image image = Image(
       image: assetImage,
       width: 125.0,
